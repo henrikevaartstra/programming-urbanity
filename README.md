@@ -18,7 +18,7 @@ An analysis into the correlation between urbanity of a persons hometown (townshi
 -   scipy 1.6.0
 -   seaborn 0.11.1
 -   stasmodels 0.12.1
--   
+
 ### Instructions
 1. Download the 'data' folder
 2. Save the FINAL-ASSIGNMENT-352664.ipynb in one folder above the data folder
@@ -38,7 +38,7 @@ Taking the above two mentioned data source resulted in the following research qu
 3.	The data storage and processing approach
 The data used originates from different sources:
 
-_Addresses per km2 _	Webpage (html text)	https://allecijfers.nl/gemeente/groningen/ 
+_Addresses per km2_	Webpage (html text)	https://allecijfers.nl/gemeente/groningen/ 
 
 _Mental health questionnaires_	CSV file	https://ggdgroningen.incijfers.nl/dashboard/dashboard/psychische-gezondheid/
 
